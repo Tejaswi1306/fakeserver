@@ -1,0 +1,33 @@
+{
+    "universities": [
+      {
+        "id": 1,
+        "country": "India",
+        "capital": "Delhi",
+        "currency": "Rupees"
+      },
+      {
+
+        "country": "UK",
+        "capital": "London",
+        "currency": "Pound"
+      },
+      {
+    
+        "country": "USA",
+        "Capital": "Delhi",
+        "currency":"Dollor"
+        
+      },
+      {
+        "country": "Japan",
+        "Capital": "Tokyo",
+        "currency":"Yen"  
+      },
+      {
+        "country": "France",
+        "Capital": "Paris",
+        "currency":"Euro"
+      }
+    ]
+  }
